@@ -11,8 +11,8 @@ links:
 ---
 
 **专长 Expertise:**
-- Biodiversity Informatics
-- Sea Turtle Ecology
+Biodiversity Informatics<br>
+Sea Turtle Ecology
 <br>
 
 intro intro intro<br>

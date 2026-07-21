@@ -15,5 +15,5 @@ Undergraduate, MSc
 <br>
 
 **专长 Expertise:**
-  - Behavioural ecology
+Behavioural ecology
 <br>

@@ -15,8 +15,8 @@ PhD
 <br>
 
 **专长 Expertise:**
-  - Behavioural ecology
-  - Conservation biology
+Behavioural Ecology<br>
+Conservation Biology
 <br>
 
 intro intro intro<br>

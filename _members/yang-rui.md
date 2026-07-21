@@ -6,12 +6,12 @@ aliases:
   - 杨蕊
   - Rui Yang
 links:
-  email: @stu.ecnu.edu.cn
+  email: xxx@stu.ecnu.edu.cn
   orcid: 0000
 ---
 
 **专长 Expertise:**
-  - Ecology
+Ecology
 <br>
 
 intro intro intro<br>

@@ -14,7 +14,7 @@ Our lab's research focuses on behavioural ecology and conservation biology of ve
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Sea turtles" style="rich" %}
 
 {% include section.html %}
 

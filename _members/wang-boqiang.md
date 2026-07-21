@@ -1,17 +1,18 @@
 ---
-name: 聂大义 Dayi NIE
-image: images/photo.jpg
+name: 王博强 Bo
+image: images/wangboqiang.jpg
 role: phd
 aliases:
-  - 聂大义
-  - Dayi NIE
+  - 王博强
+  - Bo
 links:
-  email: niedy14@lzu.edu.cn
+  email: xxx@stu.ecnu.edu.cn
+  orcid: 0000
 ---
 
 **专长 Expertise:**
-Chinese Water Deer<br>
-Microbial Ecology
+Genomics<br>
+Ecology
 <br>
 
 intro intro intro<br>

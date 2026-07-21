@@ -11,8 +11,8 @@ links:
 ---
 
 **专长 Expertise:**
-  - Biogeography
-  - Ecology
+Biogeography<br>
+Ecology
 <br>
 
 intro intro intro<br>
