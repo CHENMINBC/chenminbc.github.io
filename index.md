@@ -26,8 +26,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="team"
-  title="Our Team"
+  link="publication"
+  title="Our Publications"
   text=text
 %}
 
@@ -37,6 +37,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Current lab members and alumni.
 
-{% include button.html link="team" text="Meet our team" icon="fa-solid fa-arrow-right" flip=true style="bare" %}
+{% 
+   include button.html 
+   link="team" 
+   text="Meet our team" 
+   icon="fa-solid fa-arrow-right" 
+   flip=true 
+   style="bare" 
+%}
 
 {% endcapture %}
