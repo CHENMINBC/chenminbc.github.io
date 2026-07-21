@@ -2,19 +2,18 @@
 title: Home
 ---
 
-# Lab of Behavior & Conservation
-# 行为生态与生物保护实验室
+# 行为生态与生物保护实验室 Lab of Behavior & Conservation
 
 {% capture logo_1 %}
 
-{% include figure.html image="images/ecnu-logo.png" %}
+{% include figure.html image="images/ecnu-logo.png" height="150px" %}
 
 {% endcapture %}
 
 
 {% capture logo_2 %}
 
-{% include figure.html image="images/mclab.png" %}
+{% include figure.html image="images/mclab.png" height="150px" %}
 
 {% endcapture %}
 
@@ -29,7 +28,7 @@ title: Home
 
 {% capture research_text %}
 
-Our research
+Our lab's research focuses on behavioural ecology and conservation biology of vertebrates.
 
 {%
   include button.html
