@@ -7,12 +7,13 @@ tags:
   - bycatch
 ---
 <!-- excerpt start -->
-Li, J. X., Hoh, D. Z., Nie, D., & Chen, M. (2026). Sea turtle bycatch patterns in small-scale fisheries of the East China Sea and South China Sea. Biological Conservation, 320, 111926. https://doi.org/10.1016/j.biocon.2026.111926
+Li, J. X., Hoh, D. Z., Nie, D., & Chen, M. (2026). Sea turtle bycatch patterns in small-scale fisheries of the East China Sea and South China Sea. Biological Conservation, 320, 111926. [https://doi.org/10.1016/j.biocon.2026.111926](https://doi.org/10.1016/j.biocon.2026.111926)
 
 <!-- excerpt end -->
-原文链接：[Li et al. (2026) DOI](https://doi.org/10.1016/j.biocon.2026.111926)
+DOI 原文链接：[Li et al. (2026)](https://doi.org/10.1016/j.biocon.2026.111926)
 
 转自[华师生环微信公众号](https://mp.weixin.qq.com/s/CLfH6EccISHVaRELtyIZDQ)
+
 文案 | 李家雪、何芷蔚、陈珉<br>
 编辑 | 孙林夕<br>
 审核 | 陈珉、陈然
