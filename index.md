@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 # Lab of Behavior & Conservation
 # 行为生态与生物保护实验室
 
