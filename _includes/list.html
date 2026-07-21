@@ -15,8 +15,9 @@
   {% assign data = year.items %}
 
   {% if years.size > 1 %}
-    {%- comment %} Render year heading {%- endcomment %}
-    <h3 id="{{ year.name }}">{{ year.name }}</h3>
+### {{ year.name }}
+{: #{{ year.name }} }
+
     {% assign data = data | sort: "date" | reverse %}
   {% endif %}
 
