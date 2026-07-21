@@ -1,9 +1,4 @@
-
-  ![on-push](../../actions/workflows/on-push.yaml/badge.svg)
-  ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
-  ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
-
-  # CHENMINBC's Website
+ # 陈珉 Min CHEN's Lab Website
 
   Visit **[chenminbc.github.io](https://chenminbc.github.io)** 🚀
 
