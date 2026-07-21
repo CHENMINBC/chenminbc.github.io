@@ -22,7 +22,7 @@ School of Ecological and Environmental Sciences, East China Normal University, S
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="[https://www.google.com/maps](https://maps.app.goo.gl/DXGkZXbVx3jswPxaA)"
+  link="https://maps.app.goo.gl/DXGkZXbVx3jswPxaA"
 %}
 
 {% include section.html %}
