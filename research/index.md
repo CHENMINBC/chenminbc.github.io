@@ -16,7 +16,7 @@ Our lab's research focuses on behavioural ecology and conservation biology of ve
 
 {% include search-box.html %}
 
-{% include tags.html tags="sea-turtle, chinese-water-deer, chinese-red-panda, behavior" %}
+{% include tags.html tags="behaviour, chinese-water-deer, sea-turtle, chinese-red-panda" %}
 
 {% include search-info.html %}
 
