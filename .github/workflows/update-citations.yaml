@@ -2,11 +2,12 @@ name: update-citations
 run-name: update citations
 
 on:
-  # DISABLED - Manual citation management
   workflow_call:
     inputs:
       open-pr:
         type: boolean
+        required: false
+        default: false
     outputs:
       changed:
         value: ${{ jobs.update-citations.outputs.changed }}
@@ -14,19 +15,18 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
-  pull-requests: write
-
-env:
-  FORCE_COLOR: true
-  GOOGLE_SCHOLAR_API_KEY: ${{ secrets.GOOGLE_SCHOLAR_API_KEY }}
+  contents: read
 
 jobs:
   update-citations:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
-    if: false  # DISABLED - Workflow will not run
+    outputs:
+      changed: ${{ steps.status.outputs.changed }}
 
     steps:
-      - name: Workflow Disabled
-        run: echo "This workflow is disabled for manual citation management"
+      - name: Skip automatic citation update
+        id: status
+        run: |
+          echo "Automatic citation updates are disabled."
+          echo "Citations are managed manually."
+          echo "changed=false" >> "$GITHUB_OUTPUT"
