@@ -30,10 +30,9 @@ School of Ecological and Environmental Sciences, East China Normal University, S
 {% capture col1 %}
 
 {%
-  caption="Our location"
   include figure.html
+  caption="Our location"
   image="images/amap-location.jpg"
-
 %}
 
 {% endcapture %}
