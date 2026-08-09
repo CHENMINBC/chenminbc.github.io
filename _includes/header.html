@@ -16,6 +16,7 @@
     data-big
   {% endif %}
 >
+
   <a href="{{ "/" | relative_url }}" class="home">
     {% if logo %}
       <span class="logo">
@@ -26,6 +27,7 @@
         {% endif %}
       </span>
     {% endif %}
+
     {% if site.logo-text != false %}
       <span class="title-text" data-tooltip="Home">
         {% if site.title and site.show-title != false %}
@@ -56,4 +58,21 @@
       {% endif %}
     {% endfor %}
   </nav>
+
 </header>
+
+
+{% include feature.html
+  image="images/gallery/babydeer.jpg"
+  link="research"
+  title="Our Research"
+  text=research_text
+%}
+
+{% include feature.html
+  image="images/gallery/work.jpg"
+  link="team"
+  title="Our Team"
+  text=team_text
+  flip=true
+%}

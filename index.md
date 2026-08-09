@@ -40,7 +40,7 @@ Our lab's research focuses on behavioural ecology and conservation biology of ve
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/gallery/work.jpg"
   link="research"
   title="Our Research"
   text=research_text
@@ -65,7 +65,7 @@ Our lab members and alumni. 实验室成员及毕业生。
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/gallery/waterdeer.jpg"
   link="team"
   title="Our Team"
   text=team_text
@@ -74,24 +74,3 @@ Our lab members and alumni. 实验室成员及毕业生。
 
 {% capture gallery_text %}
 
-Field work and organisms photos. 田野工作与生物照片。
-
-{%
-  include button.html
-  link="gallery"
-  text="View gallery"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="gallery"
-  title="Gallery"
-  text=gallery_text
-%}

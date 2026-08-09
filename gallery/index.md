@@ -11,8 +11,6 @@ Field work and organisms photos. 田野工作与生物照片。
 
 {% include section.html %}
 
-## Gallery
-
 ### Field work
 {% include list.html component="card" data="tools" filters="group: featured" %}
 
