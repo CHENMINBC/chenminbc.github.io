@@ -1,6 +1,6 @@
 ---
 name: 何芷蔚 Daphne Z HOH
-image: images/members/daphnehoh.jpg
+image: images/members/daphne.jpg
 role: postdoc
 aliases:
   - 何芷蔚
