@@ -36,7 +36,7 @@ Field work and organisms photos. 田野工作与生物照片。
 {% include figure.html image="images/gallery/redpanda.jpg" caption="小熊猫 © 王博强"%}
 {% include figure.html image="images/gallery/redpanda2.jpg" caption="小熊猫 © 陈秋婷"%}
 {% include figure.html image="images/gallery/redpanda3.jpg" caption="小熊猫芝麻 © 陈秋婷"%}
-{% include figure.html image="images/gallery/.jpg" caption="花束 © 王子新"%}
+{% include figure.html image="images/gallery/flower.jpg" caption="花束 © 王子新"%}
 {% include figure.html image="images/gallery/lizard.jpg" caption="三棱攀蜥"%}
 {% include figure.html image="images/gallery/tibetanfox.jpg" caption="藏狐 © 王博强"%}
 {% include figure.html image="images/gallery/polecat.jpg" caption="香鼬 © 王博强"%}
@@ -57,6 +57,9 @@ Field work and organisms photos. 田野工作与生物照片。
 {% include figure.html image="images/gallery/eldsdeer.jpg" caption="海南坡鹿 © 张明军"%}
 {% include figure.html image="images/gallery/pitviper.jpg" caption="竹叶青 © 张明军"%}
 {% include figure.html image="images/gallery/camel.jpg" caption="骆驼"%}
+{% include figure.html image="images/gallery/turtle.jpg" caption="小玳瑁 © 何芷蔚"%}
+{% include figure.html image="images/gallery/turtle1.jpg" caption="绿海龟 © 何芷蔚"%}
+{% include figure.html image="images/gallery/turtle2.jpg" caption="绿海龟 © 何芷蔚"%}
 
 {% endcapture %}
 

@@ -1,5 +1,5 @@
 ---
-name: 桑佳炀 Jiayang Sang
+name: 桑佳炀 Jiayang SANG
 image: images/members/sangjiayang.jpg
 role: msc
 aliases:

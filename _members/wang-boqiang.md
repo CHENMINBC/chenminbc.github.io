@@ -1,5 +1,5 @@
 ---
-name: 王博强 Boqiang Wang
+name: 王博强 Boqiang WANG
 image: images/members/wangboqiang.jpg
 role: phd
 aliases:

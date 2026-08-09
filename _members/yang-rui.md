@@ -1,5 +1,5 @@
 ---
-name: 杨蕊 Rui Yang
+name: 杨蕊 Rui YANG
 image: images/members/yangrui.jpg
 role: phd
 aliases:

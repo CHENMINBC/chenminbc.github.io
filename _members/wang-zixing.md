@@ -1,5 +1,5 @@
 ---
-name: 王子星 Zixing Wang
+name: 王子星 Zixing WANG
 image: images/members/wangzixing.jpg
 role: phd
 aliases:

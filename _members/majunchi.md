@@ -1,5 +1,5 @@
 ---
-name: 马骏驰 Junchi Ma
+name: 马骏驰 Junchi MA
 image: images/members/majunchi.jpg
 role: phd
 aliases:

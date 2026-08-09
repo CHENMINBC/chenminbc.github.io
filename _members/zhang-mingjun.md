@@ -1,5 +1,5 @@
 ---
-name: 张明军 Mingjun Zhang
+name: 张明军 Mingjun ZHANG
 image: images/members/zhangmingjun.jpg
 role: phd
 aliases:

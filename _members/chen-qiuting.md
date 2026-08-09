@@ -1,5 +1,5 @@
 ---
-name: 陈秋婷 Qiuting Chen
+name: 陈秋婷 Qiuting CHEN
 image: images/members/chenqiuting.jpg
 role: phd
 aliases:

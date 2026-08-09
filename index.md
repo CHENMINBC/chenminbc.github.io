@@ -65,7 +65,7 @@ Our lab members and alumni. 实验室成员及毕业生。
 
 {%
   include feature.html
-  image="images/gallery/waterdeer.jpg"
+  image="images/2026lab.jpg"
   link="team"
   title="Our Team"
   text=team_text

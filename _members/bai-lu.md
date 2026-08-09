@@ -1,5 +1,5 @@
 ---
-name: 白璐 Bai Lu
+name: 白璐 Bai LU
 image: images/members/bailu.jpg
 role: phd
 aliases:

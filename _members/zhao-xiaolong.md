@@ -1,5 +1,5 @@
 ---
-name: 赵小龙 Xiaolong Zhao
+name: 赵小龙 Xiaolong ZHAO
 image: images/members/zhaoxiaolong.jpg
 role: phd
 aliases:

@@ -1,5 +1,5 @@
 ---
-name: 蔡浩杰 Haojie Cai
+name: 蔡浩杰 Haojie CAI
 image: images/members/caihaojie.jpg
 role: msc
 aliases:
