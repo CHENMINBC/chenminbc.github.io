@@ -71,3 +71,27 @@ Our lab members and alumni. 实验室成员及毕业生。
   text=team_text
   flip=true
 %}
+
+{% capture gallery_text %}
+
+Research highlights and field work photos. 研究进展和田野工作照片。
+
+{%
+  include button.html
+  link="gallery"
+  text="View gallery"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="gallery"
+  title="Gallery"
+  text=gallery_text
+%}
