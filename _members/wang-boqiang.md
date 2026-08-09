@@ -1,28 +1,20 @@
 ---
-name: 王博强 Bo
-image: images/wangboqiang.jpg
+name: 王博强 Boqiang Wang
+image: images/members/wangboqiang.jpg
 role: phd
 aliases:
   - 王博强
   - BQ Wang
 links:
-  email: xxx@stu.ecnu.edu.cn
-  orcid: 0000
+  orcid: 0009-0003-7745-289X
 ---
 
 {% capture col1 %}
 
 **专长 Expertise:**<br>
-Genomics<br>
-Ecology<br>
-
-**个人简介 Biography:**<br>
-intro intro intro<br>
-about about about<br>
-intro intro intro<br>
-about about about<br>
-intro intro intro<br>
-about about about<br>
+Biodiversity Conservation<br>
+Conservation Genomics<br>
+Plant-Animal Interactions<br>
 
 {% endcapture %}
 

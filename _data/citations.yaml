@@ -1,3 +1,21 @@
+- id: doi:10.1098/rspb.2026.1001
+  title: "Life-history divergence underlies elevation-specific warming responses in a plateau viviparous lizard"
+  authors:
+    - XL Zhao
+    - Q Zhang
+    - ZY Zhu
+    - W Yu
+    - L Liao
+    - M Chen
+    - ZG Zeng
+  publisher: Proc. R. Soc. B
+  date: '2026'
+  link: https://doi.org/10.1098/rspb.2026.1001
+  tags:
+    - Lizard
+    - Climate change
+    - Physiology
+
 - id: doi:10.1111/ddi.70207
   title: "Mapping Priority Havens: Interactive Effects of Climate Change and Predator Dynamics on Sea Turtle Nesting Patterns"
   authors:

@@ -1,27 +1,21 @@
 ---
 name: 聂大义 Dayi NIE
-image: images/photo.jpg
+image: images/members/niedayi.jpg
 role: phd
 aliases:
   - 聂大义
   - D Nie
 links:
-  email: niedy14@lzu.edu.cn
+  orcid: 0000-0002-3249-3247
 ---
 
 {% capture col1 %}
 
 **专长 Expertise:**<br>
-Chinese Water Deer<br>
-Microbial Ecology<br>
+Gut Microbiota<br>
+Conservation Biology<br>
+Veterinary<br>
 
-**个人简介 Biography:**<br>
-intro intro intro<br>
-about about about<br>
-intro intro intro<br>
-about about about<br>
-intro intro intro<br>
-about about about<br>
 
 {% endcapture %}
 
