@@ -58,8 +58,8 @@ Field work and organisms photos. 田野工作与生物照片。
 {% include figure.html image="images/gallery/pitviper.jpg" caption="竹叶青 © 张明军"%}
 {% include figure.html image="images/gallery/camel.jpg" caption="骆驼"%}
 {% include figure.html image="images/gallery/turtle.jpg" caption="小玳瑁 © 何芷蔚"%}
-{% include figure.html image="images/gallery/turtle1.jpg" caption="绿海龟 © 何芷蔚"%}
-{% include figure.html image="images/gallery/turtle2.jpg" caption="绿海龟 © 何芷蔚"%}
+{% include figure.html image="images/gallery/gturtle1.jpg" caption="绿海龟 © 何芷蔚"%}
+{% include figure.html image="images/gallery/gturtle2.jpg" caption="绿海龟 © 何芷蔚"%}
 
 {% endcapture %}
 
