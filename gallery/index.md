@@ -1,20 +1,20 @@
 ---
 title: Gallery
 nav:
-  order: 3
-  tooltip: Photo gallery and highlights
+  order: 4
+  tooltip: Photo gallery
 ---
 
 # {% include icon.html icon="fa-solid fa-images" %}Gallery
 
-Research highlights and field work photo gallery. 研究进展和田野工作照片集。
+Field work and organisms photos. 田野工作与生物照片。
 
 {% include section.html %}
 
 ## Gallery
 
-{% include search-box.html %}
+Field work
+{% include list.html component="card" data="tools" filters="group: featured" %}
 
-{% include search-info.html %}
-
-{% include list.html data="posts" component="post-excerpt" filter="tags includes 'gallery'" %}
+Wildlife 
+{% include list.html component="card" data="tools" filters="group: featured" %}

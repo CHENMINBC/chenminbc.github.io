@@ -30,12 +30,7 @@ Conservation Biology<br>
 《城市化过程与生物多样性》<br>
 
 **个人简介 Biography:**<br>
-intro intro intro<br>
-about about about<br>
-intro intro intro<br>
-about about about<br>
-intro intro intro<br>
-about about about<br>
+
 
 {% endcapture %}
 

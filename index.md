@@ -74,7 +74,7 @@ Our lab members and alumni. 实验室成员及毕业生。
 
 {% capture gallery_text %}
 
-Research highlights and field work photos. 研究进展和田野工作照片。
+Field work and organisms photos. 田野工作与生物照片。
 
 {%
   include button.html
