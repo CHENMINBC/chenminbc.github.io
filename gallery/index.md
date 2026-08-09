@@ -13,8 +13,8 @@ Field work and organisms photos. 田野工作与生物照片。
 
 ## Gallery
 
-Field work
+### Field work
 {% include list.html component="card" data="tools" filters="group: featured" %}
 
-Wildlife 
+### Wildlife 
 {% include list.html component="card" data="tools" filters="group: featured" %}
