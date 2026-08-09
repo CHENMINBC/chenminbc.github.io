@@ -1,6 +1,6 @@
 ---
 name: 陈珉 Min CHEN
-image: images/chenmin.jpg
+image: images/members/chenmin.jpg
 role: pi
 aliases:
   - 陈珉

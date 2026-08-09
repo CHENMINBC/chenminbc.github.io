@@ -72,5 +72,4 @@ Our lab members and alumni. 实验室成员及毕业生。
   flip=true
 %}
 
-{% capture gallery_text %}
 
