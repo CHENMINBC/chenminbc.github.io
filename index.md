@@ -12,7 +12,7 @@ title: Home
 
 {% capture logo_2 %}
 
-{% include figure.html image="images/mclab.png" height="250px" %}
+{% include figure.html image="images/mclab-logo.png" height="250px" %}
 
 {% endcapture %}
 
