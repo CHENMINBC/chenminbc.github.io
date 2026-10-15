@@ -22,10 +22,10 @@ Field work and organisms photos. 田野工作与生物照片。
 {% include figure.html image="images/gallery/meas.jpg" %}
 {% include figure.html image="images/gallery/michangshan-waterfall.jpg" caption="米仓山 © 王子新"%}
 {% include figure.html image="images/gallery/michangshan-view.jpg" caption="米仓山 © 王子新"%}
-{% include figure.html image="images/gallery/1015_work1.jpg" %}
-{% include figure.html image="images/gallery/1015_work2.jpg" %}
-{% include figure.html image="images/gallery/1015_work3.jpg" %}
-{% include figure.html image="images/gallery/1015_work4.jpg" %}
+{% include figure.html image="images/gallery/1015_work1.jpg"%}
+{% include figure.html image="images/gallery/1015_work2.jpg"%}
+{% include figure.html image="images/gallery/1015_work3.jpg"%}
+{% include figure.html image="images/gallery/1015_work4.jpg"%}
 
 {% endcapture %}
 
