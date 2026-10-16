@@ -5,11 +5,13 @@ title: Home
 # 华东师范大学&nbsp;&nbsp;&nbsp;&nbsp;East China Normal University
 # 行为生态与生物保护实验室&nbsp;&nbsp;&nbsp;&nbsp;Lab of Behavior & Conservation
 
-{% capture logo_2 %}
+{% capture logo %}
 
 {% include figure.html image="images/logo.png" %}
 
 {% endcapture %}
+
+{{ logo }}
 
 {% include section.html %}
 
