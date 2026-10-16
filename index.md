@@ -7,7 +7,7 @@ title: Home
 
 {% capture logo %}
 
-{% include figure.html image="images/logo.png" %}
+{% include figure.html image="images/logo.png" width="300" %}
 
 {% endcapture %}
 
