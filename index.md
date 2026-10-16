@@ -7,13 +7,13 @@ title: Home
 
 {% capture logo_1 %}
 
-{% include figure.html image="images/ecnu-logo.png" height="300px" %}
+{% include figure.html image="images/ecnu-logo.png" %}
 
 {% endcapture %}
 
 {% capture logo_2 %}
 
-{% include figure.html image="images/mclab-logo.png" height="300px" %}
+{% include figure.html image="images/logo.png" %}
 
 {% endcapture %}
 
